@@ -1,1 +1,1 @@
-Another file to try git commands.
+Another file to try git command.
